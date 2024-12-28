@@ -1,0 +1,12 @@
+pip install flask flask-login flask-sqlalchemy
+
+in the main folder create a folder called website and a file called main.py
+
+in website, create folders called static and template
+
+in website create files called:
+
+__init__.py
+auth.py
+models.py
+views.py
